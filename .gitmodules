@@ -1,0 +1,15 @@
+[submodule "8bkc-sdk"]
+	path = 8bkc-sdk
+	url = https://github.com/pebri86/8bkc-sdk
+[submodule "8bkc-chooser"]
+	path = 8bkc-chooser
+	url = https://github.com/pebri86/8bkc-chooser
+[submodule "8bkc-gnuboy"]
+	path = 8bkc-gnuboy
+	url = https://github.com/pebri86/8bkc-gnuboy
+[submodule "8bkc-nofrendo"]
+	path = 8bkc-nofrendo
+	url = https://github.com/pebri86/8bkc-nofrendo
+[submodule "8bkc-gamegear"]
+	path = 8bkc-gamegear
+	url = https://github.com/pebri86/8bkc-gamegear
