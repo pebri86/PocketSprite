@@ -1,6 +1,0 @@
-[submodule "esp-idf"]
-	path = esp-idf
-	url = https://github.com/espressif/esp-idf.git
-[submodule "8bkc-components/ugui/UGUI"]
-	path = 8bkc-components/ugui/UGUI
-	url = https://github.com/pocketsprite/UGUI.git

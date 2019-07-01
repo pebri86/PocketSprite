@@ -1,3 +1,0 @@
-[submodule "components/libesphttpd"]
-	path = components/libesphttpd
-	url = https://github.com/PocketSprite/libesphttpd.git
